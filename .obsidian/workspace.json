@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week 7.md",
-                "mode": "preview",
+                "file": "posts/周报_月报_年报/2023_week_7.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week 7.md",
+                "file": "posts/周报_月报_年报/2023_week_7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week 7.md",
+                "file": "posts/周报_月报_年报/2023_week_7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week 7.md"
+                "file": "posts/周报_月报_年报/2023_week_7.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "1745b2c1958c1741",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "posts/周报_月报_年报/test.md",
+    "assets.md",
+    "assets/cat-7762887_1280.webp",
+    "posts/周报_月报_年报/2023_week_7.md"
+  ]
 }
