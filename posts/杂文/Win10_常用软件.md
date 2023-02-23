@@ -36,7 +36,7 @@
   用于批量重命名文件。
 - Resilio Sync：[官网](https://www.resilio.com/individuals/) | 个人备份 <br>
   备选的同步工具。
-- SSTap-beta：官网 | [个人备份]() <br>
+- SSTap-beta：官网 | [个人备份](https://github.com/ciceroxiao/cicero_notes/tree/main/assets/software) <br>
   备用的科学上网工具。
 - SumatraPDF：[官网](https://www.sumatrapdfreader.org/free-pdf-reader) | 个人备份 <br>
   简单、开源的 PDF 阅读软件。
@@ -51,7 +51,7 @@
 - 火绒安全软件：[官网](https://www.huorong.cn/) | 个人备份
 - 闪电下载：[官网](https://bbs.flashdown365.com/) | 个人备份 <br>
   用于下载磁力文件和百度云文件。
-- 搜狗输入法：官网 | [个人备份]() <br>
+- 搜狗输入法：官网 | [个人备份](https://github.com/ciceroxiao/cicero_notes/tree/main/assets/software) <br>
   禁止联网版的搜狗输入法。
 - 微信：[官网](https://weixin.qq.com/) | 个人备份
 
