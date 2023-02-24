@@ -8,8 +8,9 @@
 - Bandicam：[官网](https://www.bandicam.com/) | 个人备份 <br>
   录屏工具，小巧，但录制质量非常棒。
 - calibre：[官网](https://calibre-ebook.com/) | 个人备份 <br>
-  用于阅读电子书。
-  相关文章：[如何用 DeDRM 破解去除 AZW3 格式电子书 DRM 保护 – 书伴](https://bookfere.com/post/6.html)
+  用于阅读电子书。 <br>
+  相关文章：
+    - [如何用 DeDRM 破解去除 AZW3 格式电子书 DRM 保护 – 书伴](https://bookfere.com/post/6.html)
 - Clash for Windows：[官网](https://github.com/Fndroid/clash_for_windows_pkg/releases) | 个人备份 <br>
   科学上网工具。
 - DeskGo：[官网](https://guanjia.qq.com/product/zmzl/) | 个人备份 <br>
