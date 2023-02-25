@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "霞鹜文楷,Hack",
+  "textFontFamily": "霞鹜文楷",
+  "monospaceFontFamily": "Hack",
+  "baseFontSize": 17
 }

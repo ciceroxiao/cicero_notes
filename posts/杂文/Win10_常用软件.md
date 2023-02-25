@@ -7,6 +7,8 @@
   方便电脑控制安卓手机。
 - Bandicam：[官网](https://www.bandicam.com/) | 个人备份 <br>
   录屏工具，小巧，但录制质量非常棒。
+- Bulk Crap Uninstaller：[官网](https://github.com/Klocman/Bulk-Crap-Uninstaller) | 个人备份 <br>
+  非常棒的卸载工具，专用于卸载各种流氓软件。
 - calibre：[官网](https://calibre-ebook.com/) | 个人备份 <br>
   用于阅读电子书。 <br>
   相关文章：
