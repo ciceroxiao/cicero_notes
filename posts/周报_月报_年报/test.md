@@ -1,1 +1,0 @@
-![cat_test](/assets/cat-7762887_1280.webp)

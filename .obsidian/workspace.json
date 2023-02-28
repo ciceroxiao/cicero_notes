@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c629f6e75ee4fd",
+        "id": "6c66f8d9a5a51ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "f5c96e346aa95844",
+            "id": "21120503bd22f304",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/周报_月报_年报/2023_Plans.md",
+                "file": "posts/周报_月报_年报/2023_week_8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/周报_月报_年报/2023_Plans.md",
+                "file": "posts/周报_月报_年报/2023_week_8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/周报_月报_年报/2023_Plans.md",
+                "file": "posts/周报_月报_年报/2023_week_8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/周报_月报_年报/2023_Plans.md"
+                "file": "posts/周报_月报_年报/2023_week_8.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5c96e346aa95844",
+  "active": "21120503bd22f304",
   "lastOpenFiles": [
-    "posts/周报_月报_年报/test.md",
-    "posts/周报_月报_年报/2023_week_7.md",
     "posts/周报_月报_年报/2023_Plans.md",
+    "posts/周报_月报_年报/2023_week_8.md",
+    "posts/杂文/Win10_常用软件.md",
+    "2023_Plans.md",
+    "posts/周报_月报_年报/2023_week_7.md",
+    "templates/周报模板.md",
     "assets/picture/pexels-ron-lach-10181218.jpg",
+    "assets/picture/pexels-tomáš-malík-10768835.jpg",
+    "assets/picture/cat-7762887_1280.webp",
+    "posts/周报_月报_年报/test.md",
+    "templates",
     "每日万步.md",
     "().md",
-    "posts/杂文/Win10_常用软件.md",
     "assets/software/Clover_3.5.6_Green.rar",
     "assets/software/搜狗输入法v11.1.0.5032去广告精简优化版.exe",
     "assets/software/SSTap-beta-setup-1.0.9.7.exe.7z",

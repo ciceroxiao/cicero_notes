@@ -7,6 +7,8 @@
   方便电脑控制安卓手机。
 - Bandicam：[官网](https://www.bandicam.com/) | 个人备份 <br>
   录屏工具，小巧，但录制质量非常棒。
+- balenaEtcher：[官网](https://www.balena.io/etcher) | 个人备份 <br>
+  USB 启动器的制作工具。
 - Bulk Crap Uninstaller：[官网](https://github.com/Klocman/Bulk-Crap-Uninstaller) | 个人备份 <br>
   非常棒的卸载工具，专用于卸载各种流氓软件。
 - calibre：[官网](https://calibre-ebook.com/) | 个人备份 <br>
@@ -39,6 +41,8 @@
   用于批量重命名文件。
 - Resilio Sync：[官网](https://www.resilio.com/individuals/) | 个人备份 <br>
   备选的同步工具。
+- Rufus：[官网](https://github.com/pbatard/rufus) | 个人备份 <br>
+  U 盘启动器的制作工具。
 - SSTap-beta：官网 | [个人备份](https://github.com/ciceroxiao/cicero_notes/tree/main/assets/software) <br>
   备用的科学上网工具。
 - SumatraPDF：[官网](https://www.sumatrapdfreader.org/free-pdf-reader) | 个人备份 <br>
