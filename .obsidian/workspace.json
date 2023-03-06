@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c9abe1fd233dc1",
+        "id": "f7d6847ed480d265",
         "type": "tabs",
         "children": [
           {
-            "id": "4903897b73a5774e",
+            "id": "86ec10a6804769f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/周报_月报_年报/2023_week_9.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week_9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week_9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/周报_月报_年报/2023_week_9.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,14 +138,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4903897b73a5774e",
+  "active": "86ec10a6804769f4",
   "lastOpenFiles": [
-    "posts/周报_月报_年报/2023_week_8.md",
+    "posts/weekly_monthly_annual/2023_week_7.md",
+    "posts/essays/Win10_software_backup.md",
+    "posts/weekly_monthly_annual/2023_week_8.md",
+    "posts/weekly_monthly_annual/2023_week_9.md",
+    "templates/weekly_template.md",
+    "templates/周报模板.md",
     "posts/周报_月报_年报/2023_week_9.md",
+    "posts/周报_月报_年报/2023_week_8.md",
     "posts/周报_月报_年报/2023_plans.md",
     "posts/周报_月报_年报/2023_week_7.md",
     "assets/picture/night-sky.jpg",
-    "templates/周报模板.md",
     "assets/picture/one_piece_zoro.jpg",
     "posts/杂文/Win10_常用软件.md",
     "draft/test.md",
