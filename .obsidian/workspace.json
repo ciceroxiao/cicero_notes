@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c66f8d9a5a51ccd",
+        "id": "f7c9abe1fd233dc1",
         "type": "tabs",
         "children": [
           {
-            "id": "21120503bd22f304",
+            "id": "4903897b73a5774e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week_8.md",
+                "file": "posts/周报_月报_年报/2023_week_9.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "50767170508d43a8",
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week_8.md",
-                "collapseAll": false,
+                "file": "posts/周报_月报_年报/2023_week_9.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week_8.md",
+                "file": "posts/周报_月报_年报/2023_week_9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/周报_月报_年报/2023_week_8.md"
+                "file": "posts/周报_月报_年报/2023_week_9.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21120503bd22f304",
+  "active": "4903897b73a5774e",
   "lastOpenFiles": [
-    "posts/周报_月报_年报/2023_plans.md",
     "posts/周报_月报_年报/2023_week_8.md",
-    "posts/杂文/Win10_常用软件.md",
-    "2023_Plans.md",
+    "posts/周报_月报_年报/2023_week_9.md",
+    "posts/周报_月报_年报/2023_plans.md",
     "posts/周报_月报_年报/2023_week_7.md",
+    "assets/picture/night-sky.jpg",
     "templates/周报模板.md",
+    "assets/picture/one_piece_zoro.jpg",
+    "posts/杂文/Win10_常用软件.md",
+    "draft/test.md",
+    "2023_Plans.md",
     "assets/picture/pexels-ron-lach-10181218.jpg",
     "assets/picture/pexels-tomáš-malík-10768835.jpg",
     "assets/picture/cat-7762887_1280.webp",
