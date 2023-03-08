@@ -1,9 +1,6 @@
-你好，我是 Cicero Xiao。一个正在成为斯多葛学徒的人。
+你好，我是 Cicero Xiao 西塞驴，一个斯多葛学徒。
 
-我的社交媒体：
-
-- 推特 Twitter：https://twitter.com/bt_cicero
-- 电报 Telegram：https://t.me/ciceroxiao_tg
+我的电子有限：ciceroxiao@gmail.com
 
 
 我正使用的工具之邀请新用户链接：
